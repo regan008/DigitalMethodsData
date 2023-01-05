@@ -1,4 +1,4 @@
-#' Federal judges in the United States of America
+#' Philadelphia Almshouse Admissions 1796-1803
 #'
 #' A sample of people admitted into the Philadelphia ALMSHOUSE 1796-1803.
 #' This contains a this is a sample from the Index, including last names that
@@ -16,4 +16,4 @@
 #'   repository at the Magazine of Early American Datasets}.
 #' @examples
 #' head(judges)
-"judges"
+"almshouse_admissions"
