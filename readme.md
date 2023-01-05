@@ -8,7 +8,9 @@ To install the development version, you will first have to install devtools and 
 
 To install:
 
-```devtools::install_github("ropensci/historydata")```
+```
+devtools::install_github("regan008/DigitalMethodsData")
+```
 
 To use the library run: 
 ```
