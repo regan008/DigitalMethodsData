@@ -14,5 +14,5 @@
 #'   \href{https://data.boston.gov/dataset/1920-women-s-voter-register}{Boston
 #'   Archives and Records Management}.
 #' @examples
-#' head(BostonWomenVoters)
+#' data(BostonWomenVoters)
 "BostonWomenVoters"

@@ -22,7 +22,7 @@ transcribed. The data set included in this package was downloaded in December
 2022.
 }
 \examples{
-head(BostonWomenVoters)
+data(BostonWomenVoters)
 }
 \references{
 This data is taken from the
