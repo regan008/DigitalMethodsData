@@ -11,6 +11,7 @@
 #' {Sacco's blog}
 #'
 #' @examples
+#' data("undergroundRR")
 #' head(undergroundRR)
 #'
 "undergroundRR"
