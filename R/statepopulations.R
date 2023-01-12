@@ -7,5 +7,6 @@
 #'   \emph{National Historical Geographic Information System: Version 2.0}
 #'   (Minneapolis: University of Minnesota, 2011).
 #' @examples
-#' head(state_populations)
+#' data("statepopulations")
+#' head(statepopulations)
 "statepopulations"

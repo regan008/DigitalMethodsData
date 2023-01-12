@@ -21,6 +21,7 @@ freeholders. See \href{https://repository.upenn.edu/mead/34/}
 {the original repository} for more info.
 }
 \examples{
+data("CharlestonManumissions")
 head(CharlestonManumissions)
                                                                                                                                                                                                                                                                                                                                                              For more information, see John Garrison Marks, "Race and Freedom in the African Americas: Free People of Color and Social Mobility in Cartagena and Charleston," PhD Dissertation (2016, Rice University).
 }

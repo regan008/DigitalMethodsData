@@ -15,6 +15,7 @@ This dataset contains information transcribed from Bob Damron's Address
 Books from 1965 through 1985. Last updated December 2022.
 }
 \examples{
+data("gayguides")
 head(gayguides)
 }
 \keyword{datasets}

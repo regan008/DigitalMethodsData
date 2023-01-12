@@ -20,8 +20,8 @@ of that record to create the dataset. See \href{https://repository.upenn.edu/mea
 {the original repository} for the dataset's codebook.
 }
 \examples{
-data(judges)
-head(judges)
+data("almshouse_admissions")
+head(almshouse_admissions)
 }
 \references{
 This data is taken from the

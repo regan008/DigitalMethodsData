@@ -13,6 +13,7 @@
 #'   \href{https://www.fjc.gov/history/judges/biographical-directory-article-iii-federal-judges-export}{Biographical
 #'    Directory of Federal Judges, 1789-present}.
 #' @examples
+#' data("judges")
 #' head(judges)
 "judges"
 

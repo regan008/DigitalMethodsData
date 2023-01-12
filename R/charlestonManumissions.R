@@ -16,6 +16,7 @@
 #'   \href{https://repository.upenn.edu/mead/42/}{Almshouse Admissions 1796-1803
 #'   repository at the Magazine of Early American Datasets}.
 #' @examples
+#' data("CharlestonManumissions")
 #' head(CharlestonManumissions)
 #'                                                                                                                                                                                                                                                                                                                                                              For more information, see John Garrison Marks, "Race and Freedom in the African Americas: Free People of Color and Social Mobility in Cartagena and Charleston," PhD Dissertation (2016, Rice University).
 "charlestonManumissions"

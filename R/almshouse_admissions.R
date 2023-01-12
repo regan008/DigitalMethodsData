@@ -14,6 +14,6 @@
 #'   \href{https://repository.upenn.edu/mead/42/}{Almshouse Admissions 1796-1803
 #'   repository at the Magazine of Early American Datasets}.
 #' @examples
-#' data(judges)
-#' head(judges)
+#' data("almshouse_admissions")
+#' head(almshouse_admissions)
 "almshouse_admissions"

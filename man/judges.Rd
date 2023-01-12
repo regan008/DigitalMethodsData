@@ -20,6 +20,7 @@ judiciary's courts of special jurisdiction." This dataset is left purposely
 messy for History 8510.
 }
 \examples{
+data("judges")
 head(judges)
 }
 \references{

@@ -14,7 +14,8 @@ statepopulations
 Population figures for US states and territories from the decennial census.
 }
 \examples{
-head(state_populations)
+data("statepopulations")
+head(statepopulations)
 }
 \references{
 This dataset has been gathered by the

@@ -6,5 +6,6 @@
 #' @format One data frame with 14 variables and 60698 observations.
 #'
 #' @examples
+#' data("gayguides")
 #' head(gayguides)
 "gayguides"
