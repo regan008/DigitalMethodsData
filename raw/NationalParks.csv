@@ -1,0 +1,560 @@
+﻿park,year,total_sq_kilometers,country,state_region_province,closest_city,distance_from_closest_city
+Acadia,1919,199,United States,Maine,Sherbrooke,381
+Arches,1971,310,United States,Utah,Provo,312
+Badlands,1978,982,United States,South Dakota,Fort Collins,502
+Big Bend,1944,3242,United States,Texas,Ciudad Juarez,526
+Biscayne,1980,700,United States,Florida,Miami,32
+Black Canyon of the Gunnison,1999,125,United States,Colorado,Colorado Springs,367
+Bryce Canyon,1928,145,United States,Utah,Provo,335
+Canyonlands,1964,1366,United States,Utah,Provo,322
+Capitol Reef,1971,979,United States,Utah,Provo,280
+Carlsbad Caverns,1930,189,United States,New Mexico,El Paso,240
+Channel Islands,1980,1010,United States,California,Los Angeles,124
+Congaree,2003,108,United States,South Carolina,Columbia,18
+Crater Lake,1902,742,United States,Oregon,Eugene,288
+Cuyahoga Valley,2000,132,United States,Ohio,Cleveland ,19
+Death Valley,1994,13793,United States,California,Las Vegas,179
+Denali,1917,19186,United States,Alaska,Anchorage,383
+Dry Tortugas,1992,262,United States,Florida,Havana,110
+Everglades,1934,6107,United States,Florida,Miami,42
+Gates of the Arctic,1980,30448,United States,Alaska,Anchorage,756
+Gateway Arch,2018,91,United States,Missouri,St Louis,0
+Glacier,1910,4100,United States,Montana,Calgary,291
+Glacier Bay,1980,13045,United States,Alaska,Anchorage,784
+Grand Canyon,1919,4863,United States,Arizona,Phoenix,348
+Grand Teton,1929,1255,United States,Wyoming,Salt Lake City,449
+Great Basin,1986,312,United States,Nevada,Provo,315
+Great Sand Dunes,2004,434,United States,Colorado,Pueblo,198
+Great Smoky Mountains,1934,2114,United States,Tennessee,Knoxville,51
+Guadalupe Mountains,1972,350,United States,Texas,El Paso,113
+Haleakala,1961,136,United States,Hawaii,Honolulu,188
+Hawaii Volcanoes,1916,1318,United States,Hawaii,Honolulu,343
+Hot Springs,1921,23,United States,Arkansas,Little Rock,53
+Indiana Dunes,2019,62,United States,Indiana,Chicago,48
+Isle Royal,1930,2314,United States,Michigan,Thunder Bay,52
+Joshua Tree,1994,3218,United States,California,San Bernadino,127
+Katmai,1980,14870,United States,Alaska,Anchorage,467
+Kenai Fjords,1980,2710,United States,Alaska,Anchorage,201
+Kings Canyon,1940,1869,United States,California,Fresno,85
+Kobuk Valley,1980,7085,United States,Alaska,Anchorage,814
+Lake Clark,1980,10602,United States,Alaska,Anchorage,196
+Lassen Volcanic,1916,431,United States,California,Sacramento,309
+Mammoth Cave,1941,219,United States,Kentucky,Nashville,143
+Mesa Verde,1906,212,United States,Colorado,Albuquerque,396
+Mount Ranier,1899,957,United States,Washington,Tacoma,95
+New River Gorge,2020,28,United States,West Virginia,Greensboro,309
+North Cascades,1968,2043,United States,Washington,Abbotsford,143
+Olympic,1938,3734,United States,Washington,Seattle,177
+Petrified Forest,1962,896,United States,Arizona,Phoenix,325
+Pinnacles,2013,108,United States,California,San Jose,122
+Redwood,1968,563,United States,California,Eugene,340
+Rocky Mountain,1915,1976,United States,Colorado,Boulder,61
+Saguaro,1994,376,United States,Arizona,Tucson,21
+Sequoia,1890,1365,United States,California,Fresno,117
+Shenandoah,1935,810,United States,Virginia,Washington DC,114
+Theodore Roosevelt,1978,285,United States,North Dakota,Regina,483
+Voyageurs,1975,883,United States,Minnesota,Winnipeg,391
+White Sands,2019,592,United States,New Mexico,El Paso ,154
+Wind Cave,1903,138,United States,South Dakota,Fort Collins,460
+Wrangell-St Elias,1980,33683,United States,Alaska,Anchorage,399
+Yellowstone,1872,8983,United States,"Wyoming, Montana, Idaho",Salt Lake City,576
+Yosemite,1890,3083,United States,California,Fresno,100
+Zion,1919,596,United States,Utah,Las Vegas,269
+Akami-Uapishk KakKasuak-Mealy Mountains,2015,"10,700",Canada,Newfoundland and Labrador,Quebec City,1215
+Aulavik,1992,"12,200",Canada,Northwest Territories,Anchorage,1857
+Auyuittuq,2001,"19,089",Canada,Nunavut,Quebec City,2334
+Banff,1885,"6,641",Canada,Alberta,Calgary,109
+Bruce Peninsula,1987,125,Canada,Ontario,Barrie,202
+Cape Breton Island,1936,948,Canada,Nova Scotia,Halifax,443
+Elk Island,1913,194,Canada,Alberta,Edmonton,48
+Forillon,1970,240,Canada,Quebec,Quebec City,726
+Georgian Bay Islands,1930,14,Canada,Ontario,Barrie,70
+Glacier,1886,"1,349",Canada,British Columbia,Calgary,317
+Grasslands,1981,730,Canada,Saskatchewan,Regina,340
+Gros Morne,2005,"1,805",Canada,Newfoundland and Labrador,St John's,666
+Gulf Islands,2003,37,Canada,British Columbia,Vancouver,80
+Gwaii Hanaas,1988,"1,474",Canada,British Columbia,Vancover,689
+Ivaavik,1984,"9,750",Canada,Yukon,Anchorage,991
+Jasper,1907,"11,228",Canada,Alberta,Calgary,304
+Kejimkujik,1967,404,Canada,Nova Scotia,Halifax,167
+Kluane,1993,"5,900",Canada,Yukon,Anchorage,1042
+Kootenay,1920,"1,406",Canada,Alberta,Calgary,165
+Kouchibouguac,1969,239,Canada,New Brunswick,Halifax,341
+La Mauricie,1970,536,Canada,Quebec,Tros-Rivieres,58
+Mingan Archipelago ,1984,151,Canada,Quebec,Quebec City,854
+Mount Revelstoke,1914,252,Canada,British Columbia,Calgary,407
+Naats'ihch'oh,2014,"4,850",Canada,Northwest Territories,Anchorage,1121
+Nahanni,1974,"30,000",Canada,Northwest Territories,Edmonton,1844
+Pacific Rim,1970,510,Canada,British Columbia,Victoria,193
+Point Pelee,1918,15,Canada,Ontario,Windsor,61
+Prince Albert,1927,"3,875",Canada,Saskatchewan,Saskatoon,227
+Prince Edward Island,1937,27,Canada,Prince Edward Island,Halifax,326
+Pukaskwa,1971,"1,878",Canada,Ontario,Thunder Bay,321
+Qausuittuq,2015,"11,008",Canada,Nunavut,Saskatoon,2664
+Riding Mountain,1933,"2,968",Canada,Manitoba,Winnipeg,267
+Rouge,2015,79,Canada,Ontario,Toronto,34
+Sable Island,2013,30,Canada,Nova Scotia,Halifax,302
+Sirmilik,2001,"20,200",Canada,Nunavut,Winnipeg,2711
+Terra Nova,1957,399,Canada,Newfoundland and Labrador,St John's,223
+Thaidene Nene,2019,"14,305",Canada,Nunavut,Edmonton,1308
+Thousand Islands,1904,24,Canada,Ontario,Kingston,65
+Torngat Mountains,2008,"9,700",Canada,Newfoundland and Labrador,Quebec City,1459
+Tuktut Nogait,1998,"18,181",Canada,Northwest Territories,Edmonton,1750
+Ukkusiksalik,2003,"20,880",Canada,Nunavut,Saskatoon,1829
+Vuntut,1993,"4,345",Canada,Yukon,Anchorage,925
+Wapusk,1996,"11,475",Canada,Manitoba,Winnipeg,914
+Waterton Lakes,1895,505,Canada,Alberta,Calgary,260
+Wood Buffalo,1922,"44,972",Canada,"Alberta, Northwest Territories",Edmonton,1141
+Yoho,1886,"1,313",Canada,Alberta,Calgary,224
+Abel Tasman,1942,237,New Zealand,South Island,Christchurch,433
+Aoraki/Mount Cook,1953,722,New Zealand,South Island,Dunedin,309
+Arthur's Pass,1929,"1,185",New Zealand,South Island,Christchurch,136
+Egmont,1900,342,New Zealand,North Island,Hamilton,253
+Fiordland,1952,"12,607",New Zealand,South Island,Dunedin,331
+Kahurangi,1996,"4,529",New Zealand,South Island,Christchurch,395
+Mount Aspiring,1964,"3,562",New Zealand,South Island,Dunedin,327
+Nelson Lakes,1956,"1,019",New Zealand,South Island,Christchurch,348
+Paparoa,1987,430,New Zealand,South Island,Christchurch,287
+Rakiura,2002,"1,400",New Zealand,Stewart Island,Dunedin,239
+Tongariro,1887,786,New Zealand,North Island,Hamilton,210
+Westland Tai Poutini,1960,"1,320",New Zealand,South Island,Christchurch,363
+Whanganui,1986,742,New Zealand,North Island,Hamilton,260
+Addo Elephant,1931,1642,South Africa,Eastern Cape,Kariega,56
+Agulhas,1998,210,South Africa,Western Cape,Cape Town,223
+Richtersveld,1991,"1,624",South Africa,Northern Cape,Windhoek,748
+Augrabies Falls,1966,820,South Africa,Northern Cape,Kimberley,519
+Bontebok,1931,28,South Africa,Western Cape,George,212
+Camdeboo,2005,194,South Africa,Eastern Cape,Gqeberha,264
+Garden Route,2009,"1,210",South Africa,Western Cape,George,140
+Golden Gate Highlands,1963,340,South Africa,Free State,Maseru,185
+Karoo,1979,768,South Africa,Western Cape,George,239
+Kalahari Gemsbok,1931,"3,703",South Africa,Northern Cape,Windhoek,692
+Kruger,1926,"19,623",South Africa,Limpopo and Mpumalanga,Mbombela,54
+Mapungubwe,1995,280,South Africa,Limpopo ,Polokwane,214
+Marakele,1994,670,South Africa,Limpopo,Rustenburg,163
+Meerkat,2020,"1,352",South Africa,Northern Cape,George,498
+Mokala,2007,196,South Africa,Northern Cape,Kimberley,85
+Mountain Zebra,1937,284,South Africa,Eastern Cape,Gqeberha,260
+Namaqua,1999,"1,368",South Africa,Northern Cape,Cape Town,534
+Table Mountain,1998,221,South Africa,Western Cape,Cape Town,7
+Tankwa Karoo,1986,"1,436",South Africa,Northern Cape,Paarl,260
+West Coast,1985,363,South Africa,Western Cape,Cape Town,88
+Butrint,1966,94,Albania,S Albania,Durres,246
+Tomorr Mountain ,1956,261,Albania,S Albania,Durres,113
+Dajti,1966,294,Albania,Central Albania,Tirana,25
+Fir of Drenove ,1966,14,Albania,E Albania,Tirana,173
+Llogara,1966,10,Albania,SW Albania,Durres,167
+Lure-Dejes Mountain ,1966,202,Albania,NE Albania,Tirana,124
+Theth,1966,26,Albania,N Albania,Tirana,176
+Shtame Pass ,1996,20,Albania,Central Albania,Tirana,51
+Valbone Valley ,1996,80,Albania,N Albania,Tirana,258
+Prespa,1999,278,Albania,SE Albania,Tirana,169
+Divjake-Karavasta ,2007,222,Albania,W Albania,Durres,63
+Fir of Hotove-Dangelli ,2008,344,Albania,S Albania,Durres,231
+Shebenik-Jabllanice ,2008,339,Albania,E Albania,Tirana,100
+Karaburun-Sazan Marine Park ,2010,126,Albania,SW Albania,Durres,94
+Valle del Sorteny ,1999,108,Andorra,,Perpignan,179
+Valles del Comapedrosa ,2003,15,Andorra,,Perpignan,170
+Madriu-Perafita-Claror ,2005,400,Andorra,,Perpignan,156
+Hohe Tauern ,1981,1856,Austria,Carnithia and the E Tyrol,Innsbruck,158
+Neusielder See-Seewinkel ,1993,97,Austria,Burgenland,Bratislava,77
+Donau-Auen ,1996,93,Austria,Lower Austria/Vienna,Vienna,32
+Kalkalpen,1997,208,Austria,Upper Austria,Linz,96
+Thayatal ,2000,13,Austria,Lower Austria,Brno,96
+Gesause,2002,110,Austria,Styria,Salzburg,187
+Belovezhskaya Pushcha,1932,1502,Belarus,Brest,Brest,59
+Braslau Lakes ,1995,691,Belarus,Braslaw,Vilnius,181
+Pripyatski ,1996,858,Belarus,Gomel,Baronovici ,125
+Naranchanski,1999,1178,Belarus,"Minsk, Grodno and Vitebsk",Vilnius,112
+De Zoom-Kalmthoutse Heide ,2001,38,Belgium,Antwerp and the NE,Antwerp,29
+Hoge Kempen ,2006,127,Belgium,Antwerp and the NE,Maastricht,9
+Sutjeska,1962,161,Bosnia Herzegovina,Republic of Srpska,Sarajevo,107
+Kozara,1967,39,Bosnia Herzegovina,Republic of Srpska,Zagreb,178
+Una,2008,350,Bosnia Herzegovina,NW Bosnia,Zagreb,177
+Drina,2017,63,Bosnia Herzegovina,Republic of Srpska,Sarajevo,159
+Pirin,1962,402,Bulgaria,Southwest,Plovdiv ,163
+Central Balkan ,1991,717,Bulgaria,Balkan Range and Danubian Plain,Plovdiv,87
+Rila,1992,810,Bulgaria,Southwest,Sofia,73
+Plitvice Lakes ,1949,297,Croatia,Inland Croatia,Zagreb,130
+Paklenica,1949,95,Croatia,Kvarner Gulf,Split,176
+Risnjak,1953,64,Croatia,Inland Croatia,Rijeka,43
+Mljet,1960,98,Croatia,Dubrovnik and Around,Split,211
+Kornati ,1980,218,Croatia,Dalmatia,Split,186
+Brijuni,1983,34,Croatia,Istria,Rijeka,70
+Krka,1985,109,Croatia,Dalmatia,Split,84
+Sjeverni Velebit ,1999,109,Croatia,Kvarner Gulf,Rijeka,98
+Pedagogical Academy ,1983,5,Cyprus,South Nicosia,Nicosia,5
+Liopetri Forest ,1984,9,Cyprus,Famagusta and the Karpaz Peninsula,Nicosia,79
+Athalassa,1990,8,Cyprus,South Nicosia,Nicosia,9
+Troodos,1992,91,Cyprus,Limassol and Around,Limassol,58
+Cape Greco ,1993,39,Cyprus,Famagusta and the Karpaz Peninsula,Nicosia,95
+Polemidia,1996,13,Cyprus,Limassol and Around,Limassol,6
+Rizoelia,1998,10,Cyprus,Larnaca and Around,Nicosia,43
+Agios Nikandros ,2000,3,Cyprus,Famagusta and the Karpaz Peninsula,Nicosia,88
+Petra tou Romiou ,2001,35,Cyprus,Pafos and the West,Limassol,68
+Karpasia/Dipkarpaz ,2004,66,Cyprus,Famagusta and the Karpaz Peninsula,Nicosia,139
+Machairas ,2004,45,Cyprus,South Nicosia,Nicosia,47
+Akamas,2022,230,Cyprus,Pafos and the West,Limassol,111
+Krkonose Mountains ,1963,370,Czech Republic,East Bohemia,Prague,133
+Sumava,1981,681,Czech Republic,South Bohemia,Prague,148
+Podyji ,1991,63,Czech Republic,South Moravia,Brno,85
+Bohemian Switzerland ,2000,80,Czech Republic,North Bohemia,Dresden,55
+Thy,2008,244,Denmark,Jutland,Aalborg,121
+Mols Berge ,2009,180,Denmark,Jutland,Aarhus,32
+Wadden Sea ,2010,1466,Denmark,Southern Denmark,Odense,119
+Land of the Scylding ,2015,170,Denmark,Zealand,Copenhagen,45
+Kongernes Nordsjaelland ,2018,263,Denmark,Zealand,Copenhagen,49
+Matsalu,1957,489,Estonia,Western Estonia,Tallinn,117
+Lahemaa,1971,747,Estonia,Northern Estonia,Tallinn,46
+Karula,1993,124,Estonia,Southern Estonia,Tallinn,252
+Soomaa,1993,398,Estonia,Southwestern Estonia,Tallinn,136
+Vilsandi ,1993,239,Estonia,Western Estonia,Tallinn,203
+Alutaguse,2018,443,Estonia,Eastern Estonia,Tallinn,193
+,,,,,,
+Lemmonjoki ,1956,2850,Finland,Finnish Lapland,Oulu,522
+Liesjarvi,1956,22,Finland,Lake District,Helsinki,95
+Linnansaari,1956,38,Finland,Lake District,Jyvaskyla,184
+Oulanka,1956,270,Finland,Karelia and Kainuu,Oulu,269
+Petkeljarvi,1956,6,Finland,Karelia and Kainuu,Jyvaskyla,336
+Pyha-Hakki ,1956,13,Finland,Lake District,Jyvaskyla,82
+Rokua,1956,4,Finland,Karelia and Kainuu,Oulu,83
+Archipelago,1982,500,Finland,Southwest,Turku,69
+Helvetinjarvi,1982,50,Finland,Lake District,Tampere,77
+Hiidenportti ,1982,45,Finland,Karelia and Kainuu,Oulu,242
+Isojarvi ,1982,19,Finland,Lake District,Tampere,83
+Kauhaneva-Pohjankangas ,1982,57,Finland,Bothnian Coast,Tampere,127
+Lauhanvuori ,1982,53,Finland,Bothnian Coast,Tampere,138
+Patvinsuo,1982,105,Finland,Karelia and Kainuu,Jyvaskyla,324
+Riisitunturi ,1982,77,Finland,Finnish Lapland,Oulu,252
+Salamajarvi,1982,62,Finland,Lake District,Jyvaskyla,140
+Seitseminen,1982,46,Finland,Lake District,Tampere,70
+Tiilikajarvi,1982,34,Finland,Karelia and Kainuu,Oulu,242
+Urho Kekkonen ,1983,2550,Finland,Finnish Lapland,Oulu,457
+Ekenas Archipelago ,1989,52,Finland,South Coast,Helsinki,92
+Kolovesi,1990,23,Finland,Lake District,Jyvaskyla,205
+Torronsuo,1990,26,Finland,Lake District,Turku,90
+Bothnian Bay ,1991,157,Finland,Finnish Lapland,Oulu,87
+Koli ,1991,30,Finland,Karelia and Kainuu,St Petersburg,395
+Eastern Gulf of Finland ,1992,7,Finland,South Coast,Helsinki,140
+Paijanne,1993,14,Finland,Lake District,Lahti,74
+Puurijarvi-Isosuo ,1993,27,Finland,Lake District,Tampere,74
+Nuuksio,1994,45,Finland,Helsinki and Around,Helsinki,35
+Valkmusa ,1996,17,Finland,Karelia and Kainuu,Lahti,94
+Kurjenrahka,1998,29,Finland,Southwest,Turku,39
+Syote,2000,299,Finland,Karelia and Kainuu,Oulu,143
+Leivonmaki,2003,29,Finland,Lake District,Jyvaskyla,48
+Repovesi,2003,15,Finland,Lake District,Helsinki,191
+Pallas-Yllastunturi ,2005,1020,Finland,Finnish Lapland,Oulu,406
+Pyha-Luosto ,2005,142,Finland,Finnish Lapland,Oulu,317
+Bothnian Sea ,2011,913,Finland,Southwest,Tampere,127
+Sipoonkorpi ,2011,19,Finland,Helsinki and Around,Helsinki,31
+Southern Konnevesi ,2014,15,Finland,Lake District,Jyvaskyla,87
+Teijo,2015,34,Finland,South Coast,Turku,82
+Hossa,2017,11,Finland,Karelia and Kainuu,Oulu,240
+Salla,2022,100,Finland,Finnish Lapland,Oulu,315
+Port-Cros,1963,46,France,Cote d'Azur,Marseille,89
+Vanoise,1963,534,France,Alps and Jura,Turin,109
+Pyrenees,1967,458,France,Pyrenees,Toulouse,156
+Cevennes,1970,937,France,Massif Central,Montpellier,127
+Ecrins,1973,1788,France,Alps and Jura,Grenoble,42
+Mercantour,1979,679,France,Rhone Valley and Provence,Nice,51
+Calanques,2012,520,France,Cote d'Azur,Marseille,13
+Forets,2019,560,France,"The North, Burgundy",Dijon,50
+Lower Oder Valley ,1955,165,Germany,Brandenburg,Szczecin,52
+Bavarian Forest ,1970,242,Germany,Bavaria,Linz,107
+Berchtesgaden,1978,210,Germany,Bavaria,Salzburg,38
+Schleswig-Holstein Wadden Sea ,1985,4410,Germany,Schleswig-Holstein,Bremerhaven,108
+Lower Saxon Wadden Sea ,1986,3458,Germany,Lower Saxony,Bremerhaven,41
+Hamburg Wadden Sea ,1990,138,Germany,Schleswig-Holstein,Bremerhaven,41
+Jasmund ,1990,30,Germany,Mecklenburg-Lower Pomerania,Rostock,30
+Muritz,1990,308,Germany,Mecklenberg-Lower Pomerania,Rostock,102
+Saxon Switzerland ,1990,94,Germany,Saxony,Dresden,48
+Western Pomerania Lagoon Area ,1990,805,Germany,Mecklenberg-Lower Pomerania,Rostock,53
+Hainich,1997,75,Germany,Thuringia,Kassel,97
+Eifel,2004,107,Germany,North Rhine-Westphalia,Aachen,38
+Kellerwald-Edersee ,2004,57,Germany,Hesse,Kassel,65
+Harz ,2006,247,Germany,Saxony-Anhalt and Saxony,Gottingen,56
+Black Forest ,2014,101,Germany,Baden-Wurttemberg,Strasbourg,59
+Hunsruck-Hochwald ,2015,100,Germany,Rhineland-Palatinate and Saarland,Saarbrucken ,66
+Hortobagy,1973,810,Hungary,Great Plain,Debrecen,24
+Kiskunsag,1975,506,Hungary,Great Plain,Kecskemet,25
+Bukk,1977,423,Hungary,Northern Uplands,Miskolc,57
+Aggtelek,1985,202,Hungary,Northern Uplands,Miskolc,46
+Ferto-Hansag ,1991,239,Hungary,Transdanubia,Bratislava,80
+Danube-Drava ,1996,498,Hungary,Transdanubia,Pecs,56
+Balaton Uplands ,1997,570,Hungary,Lake Baloton and the Bakony,Budapest,143
+Danube-Ipoly,1997,607,Hungary,Danube Bend,Budapest,79
+Koros-Maros ,1997,512,Hungary,Great Plain,Kecskemet,80
+Orseg,2002,440,Hungary,Transdanubia,Graz,103
+Þingvellir ,1930,240,Iceland,S Iceland,Reykjavik,47
+Snæfellsjökull,2001,170,Iceland,W Iceland,Reykjavik,197
+Vatnajökull,2008,"13,952",Iceland,SE Iceland,Reykjavik,320
+Connemara,1980,20,Ireland,Galway and Mayo,Cork,285
+Glenveagh,1984,170,Ireland,Donegal,Belfast,171
+The Burren ,1991,15,Ireland,Limerick and Clare,Cork,154
+Wicklow Mountains ,1991,205,Ireland,Around Dublin,Dublin,22
+Wild Nephin ,1998,150,Ireland,Galway and Mayo,Dublin,265
+Killarney,1932,105,Ireland`,Kerry,Cork,85
+Gran Paradiso ,1922,700,Italy,Piemonte and Valle d’Aosta,Turin,147
+"Abruzzo, Lazio and Molise ",1923,507,Italy,Abruzzo and Molise,Pescara,114
+Circeo,1934,84,Italy,Rome and Lazio,Latina,8
+Stelvio,1935,1307,Italy,Lombardy and Trentino-Alto Adige,Bolzano Bozen,63
+Dolomiti Bellunesi ,1988,32,Italy,Veneto,Trento,90
+Pollino,1988,1926,Italy,Calabria and Basilicata,Taranto,183
+Sibillini Mountains ,1988,697,Italy,Marche and Umbria,Terni ,65
+Aspromonte,1989,761,Italy,Calabria and Basilicata,Reggio Calabria,33
+"Foreste Casentinesi, Monte Falterona and Campigna",1989,364,Italy,Emilia-Romagna and Tuscany,Forli,47
+Tuscan Archipelago ,1989,747,Italy,Emilia-Romagna and Tuscany,Livorno,137
+"Cilento, Valle di Diano and Alburni ",1991,1810,Italy,Campania,Salerno,64
+Gargano,1991,1221,Italy,Puglia,Foggia,29
+Gran Sasso and Monti della Laga ,1991,1413,Italy,"Marche, Rome and Lazio, Abruzzo and the Molise",Terni ,101
+Majella,1991,704,Italy,Abruzzo and the Molise,Pescara,69
+Val Grande ,1991,146,Italy,Piemonte and Valle d’Aosta,Novara,81
+Vesuvius,1991,73,Italy,Campania,Naples,14
+Archipelago of La Maddalena ,1994,201,Italy,Sardinia,Cagliari,305
+Apennino Tosco-Emiliano ,1997,228,Italy,Emilia-Romagna and Tuscany,Livorno,106
+Asinara,1997,270,Italy,Sardinia,Cagliari,284
+Sila,1997,737,Italy,Calabria and Basilicata,Reggio Calabria,251
+Gennargentu,1998,730,Italy,Sardinia,Cagliari,146
+Cinque Terre ,1999,39,Italy,Liguria,Genoa,84
+Alta Murgia ,2004,677,Italy,Puglia,Bari,53
+Apennino Lucano-Val d’Agri-Lagonegrese,2007,690,Italy,Calabria and Basilicata,Salerno,109
+Island of Pantelleria ,2016,66,Italy,Sicily,Palermo,281
+Bjeshket e Nemuna ,2012,630,Kosovo,Kosovo,Pristina,121
+Sharr Mountains ,2012,533,Kosovo,Kosovo,Pristina,70
+Gauja,1973,918,Latvia,Vidzeme,Riga,94
+Kemeri ,1997,362,Latvia,"Courland, Semigallia and Vidzeme",Riga,46
+Slitere ,1999,164,Latvia,Courland,Riga,179
+Razna,2007,596,Latvia,Latgale,Riga,276
+Aukstaitija,1974,411,Lithuania,Aukstaitija,Vilnius,118
+Dzukija,1981,585,Lithuania,Dzukija,Vilnius,104
+Curonian Spit ,1991,274,Lithuania,Lithuania Minor,Klapeida,51
+Trakai National Historic Park ,1991,81,Lithuania,Dzukija,Vilnius,30
+Zemaitija,1991,218,Lithuania,Samogitia,Klapeida,74
+Orhei ,2013,388,Moldova,Central Moldova,Chisinau,53
+Durmitor,1952,390,Montenegro,NW Montenegro,Sarajevo ,152
+Biogradska Gora ,1952,57,Montenegro,NE Montenegro,Mitrovica,199
+Lovcen,1952,62,Montenegro,S Montenegro,Shkoder,115
+Lake Skadar ,1983,400,Montenegro,SE Montenegro,Shkoder,71
+Prokletije,2009,166,Montenegro,E Montenegro,Prizren (Kosovo),151
+Veluwezoom,1930,50,Netherlands,Eastern Netherlands,Arnhem,11
+De Hoge Veluwe ,1935,54,Netherlands,Eastern Netherlands,Arnhem,10
+Schiermonnikoog,1989,54,Netherlands,North and Frisian Islands,Groningen,39
+Dwingelderveld,1991,37,Netherlands,North and Frisian Islands,Zwolle,50
+Weeribben-Wieden ,1992,105,Netherlands,Eastern Netherlands,Zwolle,35
+De Groote Peel ,1993,13,Netherlands,South and Zeeland,Eindhoven,31
+De Biesboch ,1994,71,Netherlands,South and Zeeland,Dordrecht,7
+Zuid-Kennemerland ,1995,38,Netherlands,Noord-Holland,Haarlem,5
+De Meinweg ,1995,17,Netherlands,South and Zeeland,Eindhoven,62
+De Maasduinen ,1996,42,Netherlands,South and Zeeland,Nijmegen,44
+Drents-Friese Wold ,2000,61,Netherlands,North and Frisian Islands,Groningen,56
+De Zoom-Kalmthoutse ,2001,38,Netherlands,South and Zeeland,Antwerp,24
+Drentsche Aa ,2002,106,Netherlands,North and Frisian Islands,Groningen,27
+Duinen van Texel ,2002,43,Netherlands,Noord-Holland,Amsterdam,102
+Oosterschelde,2002,370,Netherlands,South and Zeeland,Antwerp,70
+De Loonse en Drunense Duinen ,2002,34,Netherlands,South and Zeeland,‘s-Hertogenbosch ,12
+Lauwersmeer,2003,60,Netherlands,North and Frisian Islands,Groningen,46
+Utrechtse Heuvelrug ,2003,100,Netherlands,Zuid-Holland and Utrecht,Utrecht,24
+Sallandse Heuvelrug ,2004,27,Netherlands,Eastern Netherlands,Zwolle,37
+De Alde Feanen ,2006,40,Netherlands,North and Frisian Islands,Groningen,56
+Nieuw Land ,2018,289,Netherlands,Eastern Netherlands,Almere,17
+Pelister,1948,172,North Macedonia,Southern N Macedonia,Elbasan,169
+Mavrovo,1949,780,North Macedonia,Western N Macedonia,Skopje,99
+Galicica,1958,227,North Macedonia,Southern N Macedonia,Elbasan,92
+Shar Mountain,2021,627,North Macedonia,NW N Macedonia,Skopje,63
+Rondane,1962,963,Norway,Central Norway,Trondheim,257
+Borgefjell,1963,1446,Norway,Trondheim to the Lofoten Islands,Trondheim,350
+Gutulia,1968,23,Norway,Central Norway,Oslo,308
+Anderdalen,1970,134,Norway,North Norway,Murmansk,950
+Ovre Pasvik ,1970,199,Norway,North Norway,Murmansk,256
+Stabbursdalen,1970,747,Norway,North Norway,Murmansk,470
+Femundsmarka,1971,573,Norway,Central Norway,Trondheim,320
+Ovre Dividal ,1971,750,Norway,North Norway,Oulu,650
+Rago,1971,171,Norway,Trondheim to the Lofoten Islands,Trondheim,649
+Forlandet,1973,4647,Norway,North Norway,Murmansk,1247
+Nordvest-Spitzbergen ,1973,9914,Norway,North Norway,Murmansk,1307
+Sor-Spitsbergen ,1973,13286,Norway,North Norway,Murmansk,1063
+Dovrefjell-Sunndallsfjella ,1974,4367,Norway,Central Norway,Trondheim,142
+Ovre Anarjohka ,1975,1390,Norway,North Norway,Murmansk,577
+Jotunheimen,1980,1151,Norway,Central Norway,Trondheim,309
+Hardangervidda,1981,3422,Norway,Bergen and the Western Fjords,Bergen,177
+Reisa,1986,803,Norway,North Norway,Trondheim,251
+Saltfjellet-Svartisen ,1989,2192,Norway,Trondheim to the Lofoten Islands,Trondheim,490
+Jostedalsbree,1991,1310,Norway,Bergen and the Western Fjords,Bergen,298
+Forollhogna,2001,1062,Norway,Central Norway,Trondheim,142
+Dovre,2003,289,Norway,Central Norway,Trondheim,221
+Moysalen,2003,51,Norway,North Norway,Oulu,801
+Nordre Isfjorden ,2003,2954,Norway,North Norway,Murmansk,1187
+Sassen-Bunsow Land ,2003,1230,Norway,North Norway,Murmansk,1149
+Blafjella-Skjaekerfjella ,2004,1924,Norway,Trondheim to the Lofoten Islands,Trondheim,199
+Junkerdal,2004,682,Norway,Trondheim to the Lofoten Islands,Trondheim,649
+Lierne,2004,333,Norway,Trondheim to the Lofoten Islands,Trondheim,295
+Skarvan and Roltdalen ,2004,441,Norway,Trondheim to the Lofoten Islands,Trondheim,90
+Folgefonna ,2005,545,Norway,Bergen and the Western Fjords,Bergen ,115
+Indre Wijdefjorden ,2005,1127,Norway,North Norway,Murmansk,1244
+Hallingskarvet,2006,450,Norway,Central Norway,Oslo,240
+Reinheimen ,2006,1969,Norway,Bergen and the Western Fjords,Bergen,371
+Seiland ,2006,316,Norway,North Norway,Murmansk,408
+Varangerhalvoy,2006,1804,Norway,North Norway,Murmansk,385
+Breihemen,2009,1671,Norway,Bergen and the Western Fjords,Bergen,302
+Lomsdal-Visten ,2009,682,Norway,Trondheim to the Lofoten Islands,Trondheim,350
+Ytre Hvaler ,2009,354,Norway,Oslo and the Oslofjord,Oslo,112
+Sjunkhatten,2010,417,Norway,Trondheim to the Lofoten Islands,Trondheim,701
+Langsua,2011,537,Norway,Central Norway,Oslo,193
+Rohkunborri,2011,571,Norway,North Norway,Oulu,600
+Fulufjellet ,2012,83,Norway,Central Norway,Oslo,245
+Lakho,2012,188,Norway,Trondheim to the Lofoten Islands,Trondheim,620
+Faerder,2013,350,Norway,Oslo and the Oslofjord,Drammen,89
+Jomfruland,2016,177,Norway,Central Norway,Oslo,213
+Raet,2016,607,Norway,The South,Drammen,247
+Lofotodden,2018,99,Norway,Trondheim to the Lofoten Islands,Trondheim,802
+Van Mijenfjorden ,2021,4251,Norway,North Norway,Murmansk,1133
+Bialowieza,1947,105,Poland,Northeastern Poland,Bialystok,64
+Swietokrzyski ,1950,76,Poland,"Krakow, Malopolska and the Tatras",Kielce,20
+Pieniny,1954,23,Poland,"Krakow, Malopolska and the Tatras",Krakow,111
+Tatra,1954,212,Poland,"Krakow, Malopolska and the Tatras",Bielsko-Biala,129
+Babia Gora ,1955,34,Poland,"Krakow, Malopolska and the Tatras",Bielsko-Biala ,71
+Ojcow,1956,21,Poland,"Krakow, Malopolska and the Tatras",Krakow,20
+Wielkopolska,1957,76,Poland,Wielkopolska and Pomerania,Poznan,22
+Kampinos,1959,385,Poland,Warsaw and Mazovia,Warsaw,15
+Karkonosze,1959,56,Poland,Silesia,Walbrzych,57
+Wolin ,1960,109,Poland,Wielkopolska and Pomerania,Szczecin,85
+Slowinski,1967,186,Poland,Wielkopolska and Pomerania,Gdynia,116
+Bieszczady,1973,292,Poland,Southeastern Poland,Rzeszow,149
+Roztocze,1974,85,Poland,Southeastern Poland,Lublin,88
+Gorce ,1981,70,Poland,"Krakow, Malopolska and the Tatras",Krakow,73
+Wigry,1989,151,Poland,Northeastern Poland,Grodno,97
+Drawno,1990,144,Poland,Wielkopolska and Pomerania,Szczecin,115
+Polosie,1990,98,Poland,Southeastern Poland,Lublin,56
+Biebrza,1993,592,Poland,Northeastern Poland,Bialystok,55
+Stolowe Mountains ,1993,63,Poland,Silesia,Walbrzych,56
+Magura,1995,194,Poland,Southeastern Poland,Tarnow,90
+Narew,1996,68,Poland,Northeastern Poland,Bialystok,38
+Tuchola Forest ,1996,48,Poland,Wielkopolska and Pomerania,Bygdoszcz,93
+Ujscie Warty ,2001,80,Poland,Wielkopolska and Pomerania,Gorzow Wielkopolski ,46
+Cheile Bicazului-Hasmas ,1990,66,Romania,Moldavia,Bacau,168
+Piatra Craiului ,1990,148,Romania,Transylvania,Brasov,51
+Calimani ,2000,259,Romania,Transylvania,Botosani,168
+Cozia,2000,171,Romania,Wallachia,Sibiu,76
+Domogled-Valea Cernei ,2000,612,Romania,The Banat,Timisoara,193
+Nera Gorge-Beusnita ,2000,368,Romania,The Banat,Timisoara,105
+Retezat ,2000,380,Romania,Transylvania,Timisoara,223
+Rodna Mountains ,2000,466,Romania,Maramures,Baia Mare,123
+Semenic-Caras Gorge ,2000,357,Romania,The Banat,Timisoara,131
+Buila-Vanturarita ,2005,42,Romania,Wallachia,Pitesti,94
+Defileul Jiului ,2005,111,Romania,Transylvania,Sibiu,199
+Fruska Gora ,1960,254,Serbia,Northern Serbia,Novi Sad,22
+Djerdap,1974,637,Serbia,Eastern Serbia,Belgrade,131
+Kopaonik ,1981,118,Serbia,Southern Serbia,Pristina,236
+Tara,1981,192,Serbia,Western Serbia,Sarajevo ,155
+Tatra,1949,703,Slovakia,Northern Slovakia,Kosice,136
+Pieniny,1967,38,Slovakia,Northern Slovakia,Kosice,122
+Low Tatras,1978,728,Slovakia,Central Slovakia,Kosice,132
+Mala Fatra ,1988,226,Slovakia,Central Slovakia,Ostrava,117
+Poloniny,1997,298,Slovakia,Northeastern Slovakia,Uzzhorod,84
+Muranska Planina ,1998,203,Slovakia,Central Slovakia,Kosice,123
+Slovak Paradise ,1998,198,Slovakia,Eastern Slovakia,Kosice,81
+Slovak Karst ,2002,346,Slovakia,Southeastern Slovakia,Kosice,68
+Vel’ka Fatra ,2002,404,Slovakia,Central Slovakia,Ostrava,147
+Ordesa y Monte Perdido ,1918,156,Spain,Aragon,Zaragoza,165
+Picos de Europa ,1918,671,Spain,Cantabria and Asturias,Oviedo,81
+Aiguestortes i Estany de Sant Maurici ,1955,141,Spain,Catalunya,Lleida,151
+Donana,1969,543,Spain,Andalucia,Huelva,63
+Tablas de Daimiel ,1973,30,Spain,New Castile and Extremadura,Madrid ,184
+Cabaneros,1995,409,Spain,New Castile and Extremadura,Madrid ,165
+Sierra Nevada ,1999,859,Spain,Andalucia,Granada ,30
+Illas Atlanticas de Galicia ,2002,85,Spain,Galicia,Pontevedra,32
+Monfrague,2007,184,Spain,New Castile and Extremadura,Madrid ,229
+Sierra de Guadarrama ,2013,340,Spain,Around Madrid,Madrid ,67
+Sierra de las Nieves ,2021,230,Spain,Andalucia,Marbella,23
+Abisko,1909,77,Sweden,Swedish Lapland,Oulu,581
+Angso,1909,2,Sweden,Stockholm and Around,Stockholm,67
+Garphyttan,1909,1,Sweden,The Southeast,Orebro ,22
+Gotska Sandon ,1909,45,Sweden,The Southeast,Stockholm,127
+Hamra ,1909,0.3,Sweden,The Bothnian Coast,Uppsala,331
+Pieljekaise,1909,153,Sweden,Swedish Lapland,Trondheim,525
+Sanfjallet,1909,103,Sweden,Central Sweden,Uppsala,445
+Sarek,1909,1970,Sweden,Swedish Lapland,Oulu,500
+Dalby Soderskog ,1918,4,Sweden,The Southwest,Malmo,26
+Vadvetjakka,1920,26,Sweden,Swedish Lapland,Oulu,650
+Bla Jungfrun ,1926,2,Sweden,The Southeast,Linkoping,137
+Norra Kvill ,1929,1,Sweden,The Southeast,Linkoping,88
+Tofsingdalen,1930,16,Sweden,Central Sweden,Oslo,335
+Muddus,1942,493,Sweden,Swedish Lapland,Oulu,380
+Padjelanta,1962,1984,Sweden,Swedish Lapland,Trondheim,675
+Tiveden,1983,14,Sweden,The Southeast,Orebro ,83
+Skuleskogen,1984,24,Sweden,The Bothnian Coast,Uppsala,434
+Store Mosse ,1989,79,Sweden,The Southeast,Jonkoping,64
+Bjornlandet ,1991,11,Sweden,Swedish Lapland,Trondheim,520
+Djuro ,1991,24,Sweden,Gothenburg and Around,Gothenburg,155
+Tyresta,1993,20,Sweden,Stockholm and Around,Stockholm,20
+Haparanda Archipelago ,1995,60,Sweden,The Bothnian Coast,Oulu,101
+Tresticklan,1996,29,Sweden,Gothenburg and Around,Gothenburg,179
+Farnebofjarden,1998,101,Sweden,Central Sweden,Uppsala,73
+Soderasen ,2001,16,Sweden,The Southwest,Helsingborg,47
+Fulufjallet ,2002,385,Sweden,Central Sweden,Oslo,295
+Kosterhavet ,2009,398,Sweden,Gothenburg and Around,Gothenburg,166
+Asnen,2018,19,Sweden,The Southwest,Helsingborg,174
+Swiss ,1914,172,Switzerland,Graubunden,Bolzano Bozen,116
+Peak District ,1951,1438,United Kingdom,W Midlands,Sheffield,23
+Lake District ,1951,2292,United Kingdom,Cumbria and the Lakes,Newcastle,132
+Snowdonia,1951,2142,United Kingdom,Snowdonia and the Llyn,Liverpool,106
+Dartmoor,1951,856,United Kingdom,Devon and Cornwall,Plymouth,21
+Pembrokeshire Coast ,1952,620,United Kingdom,SW Wales,Swansea,105
+North York Moors ,1952,1436,United Kingdom,Yorkshire,Middlesborough,31
+Yorkshire Dales ,1954,2179,United Kingdom,Yorkshire,Leeds,35
+Exmoor,1954,683,United Kingdom,Devon and Cornwall,Exeter,45
+Northumberland,1956,1049,United Kingdom,Northeast,Newcastle,39
+Brecon Beacons ,1957,1351,United Kingdom,Brecon Beacons and Powys,Cardiff,56
+The Broads ,1989,303,United Kingdom,East Anglia,Norwich,19
+Loch Lomond and the Trossachs ,2002,1865,United Kingdom,"Stirling, Loch Lomond and the Trossachs",Glasgow,47
+Cairngorms,2003,4528,United Kingdom,Cairngorms and Speyside,Dundee,51
+New Forest ,2005,580,United Kingdom,"Hampshire, Dorset and Wiltshire",Southampton,10
+South Downs ,2009,1641,United Kingdom,"Surrey, Kent and Sussex",Worthing,43
+Carpathian,1980,503,Ukraine,Ivano-Frankivsk Oblast,Ivano-Frankivsk,93
+Shatsky,1983,325,Ukraine,Volyn Oblast,Brest,99
+Synevir ,1989,404,Ukraine,Zakarpattia Oblast,Ivano-Frankivsk,165
+Uzhanian,1991,382,Ukraine,Zakarpattia Oblast,Uzzhorod,71
+Azov-Syvash ,1993,522,Ukraine,Kherson Oblast,Melitpol,100
+Vyzhnytsia,1995,79,Ukraine,Chernivtsi Oblast,Chernivtsi,65
+Holy Mountains ,1997,406,Ukraine,Donetsk Oblast,Slovyansk,14
+Yavorivskyi ,1998,71,Ukraine,Lviv Oblast,Lviv,49
+Desna-Starogutsky ,1999,162,Ukraine,Sumy Oblast,Bryansk,141
+Skole Beskids ,1999,357,Ukraine,Lviv Oblast,Lviv,111
+Hutsulshchyna,2002,323,Ukraine,Ivano-Frankivsk Oblast,Ivano-Frankivsk,95
+Halych,2004,147,Ukraine,Ivano-Frankivsk Oblast,Ivano-Frankivsk,22
+Homolsh Woods ,2004,143,Ukraine,Kharkiv Oblast,Kharkiv ,52
+Ichnya ,2004,97,Ukraine,Chernihiv Oblast,Brovary,133
+Great Meadow ,2006,168,Ukraine,Zaporizhzhia Oblast,Zaporizhzhia,72
+Mezynsky,2006,310,Ukraine,Chernihiv Oblast,Chernihiv,149
+Holosiivskyi,2007,45,Ukraine,Kyiv Oblast,Kyiv,0
+Prypiat-Stokhid ,2007,393,Ukraine,Volyn Oblast,Lutsk,159
+Lower Dniester ,2008,213,Ukraine,Odessa Oblast,Odessa,41
+Buzk’s Gard ,2009,61,Ukraine,Mykolaiv Oblast,Kropyvnytskyi ,120
+Charming Harbor ,2009,63,Ukraine,Crimea,Yevpatoroya,101
+Cheremosh,2009,71,Ukraine,Chernivtsi Oblast,Chernivtsi,121
+Derman-Ostroh ,2009,16,Ukraine,Rivne Oblast,Rivne,44
+Dvorichanskyi ,2009,31,Ukraine,Kharkiv Oblast,Kharkiv,167
+Dzharylhak,2009,100,Ukraine,Kherson Oblast,Kherson,71
+Hetman,2009,234,Ukraine,Sumy Oblast,Sumy,59
+Ivory Coast ,2009,352,Ukraine,Mykolaiv Oblast,Mykolaiv,190
+Karmelyukove Podillya ,2009,165,Ukraine,Vinnytsia Oblast,Vinnytsia,133
+Kremenets,2009,70,Ukraine,Ternopil Oblast,Uzzhorod,90
+Meotida,2009,207,Ukraine,Donetsk Oblast,Mariupol,47
+Pyryatyn,2009,120,Ukraine,Poltava Oblast,Cherkasy,138
+Sloboda,2009,52,Ukraine,Kharkiv Oblast,Kharkiv,96
+Synyohora,2009,109,Ukraine,Ivano-Frankivsk Oblast,Ivano-Frankivsk,59
+Tuzly Lagoons ,2009,109,Ukraine,Odessa Oblast,Odessa,175
+White Lake ,2009,70,Ukraine,Kyiv Oblast,Cherkasy,81
+Zacharovany Krai ,2009,61,Ukraine,Zakarpattia Oblast,Uzzhorod,97
+Zalissya ,2009,148,Ukraine,Kyiv Oblast,Kyiv,51
+Dniester Canyon ,2010,108,Ukraine,Ternopil Oblast,Chernivtsi,63
+Khotyn,2010,94,Ukraine,Chernivtsi Oblast,Chernivtsi,41
+Lower Sula ,2010,169,Ukraine,Potlava Oblast,Kremenchuk ,89
+Northern Podillya ,2010,156,Ukraine,Lviv Oblast,Ternopil,84
+Oleshky,2010,80,Ukraine,Kherson Oblast,Kherson,40
+Pryazovskyi ,2010,781,Ukraine,Zaporizhzhia,Melitpol,77
+Tsumanska Puscha ,2010,335,Ukraine,Volyn Oblast,Lutsk,53
+Verkhovyna,2010,120,Ukraine,Ivano-Frankivsk Oblast,Chernivtsi,150
+Lower Polissia ,2013,95,Ukraine,Khmelnytskyi Oblast,Rivne,88
+Podilski Tovtry ,2015,802,Ukraine,Khmelnytskyi Oblast,Chernivtsi,127
